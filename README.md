@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Machine Learning Projects
+- - 😄 Pronouns: She/Her
