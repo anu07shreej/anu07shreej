@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
+- Python, C++
 -->
-- 🔭 I’m currently working on Machine Learning Projects
+- 🔭 I’m currently working on Machine Learning and Data Science Projects.
+- 👯 Looking to work on challenging projects in ML. 
+
+
+
 
