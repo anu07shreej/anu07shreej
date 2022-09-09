@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Python, C++
 -->
-- 🔭 I’m currently working on Machine Learning and Data Science Projects.
-- 👯 Looking to work on challenging projects in ML. 
+- I’m currently working on Machine Learning and Data Science Projects.
+- Looking to work on challenging projects in ML. 
 
 
 
