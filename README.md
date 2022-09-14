@@ -5,7 +5,6 @@
 [![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anu07shreej/) 
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23E4405F.svg?logo=Goodreads&logoColor=blue)](https://www.goodreads.com/user/show/12176363-anushree-jumade) 
-
 [![Twitter](https://img.shields.io/badge/Twitter-%23FF0000.svg?logo=Twitter&logoColor=white)](https://www.twitter.com/anu07shreej/)
 
  #### 💫About Me :
