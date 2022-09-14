@@ -5,7 +5,7 @@
 [![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anu07shreej/) 
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23E4405F.svg?logo=Goodreads&logoColor=blue)](https://www.goodreads.com/user/show/12176363-anushree-jumade) 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fanu07shreej)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fanu07shreej)](https://twitter.com/anu07shreej)
 
  #### 💫About Me :
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Data enthusiast, working on Machine Learning, Deep Learning projects.
