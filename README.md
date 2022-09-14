@@ -1,4 +1,11 @@
-### 👋 Hello, I'm Anushree 
+### 👋 Hello, I'm Anushree.
+
+#### 🌐 Socials
+[![GitHub anu07shreej](https://img.shields.io/github/followers/honghanhh?label=follow&style=social)](https://github.com/anu07shreej)
+[![Linkedin: anu07shreej](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/hồng-hạnh-0b886212a/)](https://www.linkedin.com/in/h%E1%BB%93ng-h%E1%BA%A1nh-0b886212a/)
+<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hanh.blaow/) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anu07shreej/) 
+<!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCgyBpo_mrzZYYpX37y1LPhA) -->
 
 <!--
 **anu07shreej/anu07shreej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
