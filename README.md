@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Anushree.
 
 #### 🌐 Socials
-[![GitHub anu07shreej](https://img.shields.io/github/followers/honghanhh?label=follow&style=social)](https://github.com/anu07shreej)
+[![GitHub anu07shreej](https://img.shields.io/github/followers/anu07shreej?label=follow&style=social)](https://github.com/anu07shreej)
 [![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hanh.blaow/) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anu07shreej/) 
