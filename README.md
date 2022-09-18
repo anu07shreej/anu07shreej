@@ -1,5 +1,7 @@
 ### 👋 Hello, I'm Anushree.
 
+![](https://komarev.com/ghpvc/?username=anu07shreej&color=orange&style=plastic&label=PROFILE+VIEWS)
+
 #### 🌐 Socials:
 [![GitHub anu07shreej](https://img.shields.io/github/followers/anu07shreej?label=follow&style=social)](https://github.com/anu07shreej)
 [![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
