@@ -11,7 +11,7 @@
 
  #### 💫About Me :
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Data enthusiast, working on Machine Learning, Deep Learning projects.
-- ⚡ Fun facts: Love reading fiction 📚, playing ping-pong 🏓, outdoor activities
+- Fun facts: I love reading fiction 📚, playing ping-pong 🏓 to unwind after day's work, enjoy hiking and other outdoor activities.
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
