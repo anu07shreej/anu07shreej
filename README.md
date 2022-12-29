@@ -9,9 +9,7 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23E4405F.svg?logo=Goodreads&logoColor=white)](https://www.goodreads.com/user/show/12176363-anushree-jumade) 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fanu07shreej)](https://twitter.com/anu07shreej)
 
- #### About Me :
-- Data enthusiast, working on Machine Learning, Deep Learning projects.
-- Fun facts: Love reading fiction, enjoy hiking.
+
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
