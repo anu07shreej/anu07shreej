@@ -5,7 +5,7 @@
 #### 🌐 Socials:
 [![GitHub anu07shreej](https://img.shields.io/github/followers/anu07shreej?label=follow&style=social)](https://github.com/anu07shreej)
 [![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
-[![Leetcode](https://leetcode.com/anu07shreej/) 
+[![Leetcode: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://leetcode.com/anu07shreej/)](https://leetcode.com/anu07shreej/) 
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23E4405F.svg?logo=Goodreads&logoColor=white)](https://www.goodreads.com/user/show/12176363-anushree-jumade) 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fanu07shreej)](https://twitter.com/anu07shreej)
 
