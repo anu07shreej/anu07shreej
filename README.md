@@ -11,8 +11,6 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fanu07shreej)](https://twitter.com/anu07shreej)
 
 
-
-
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
@@ -24,19 +22,18 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=anu07shreej&show_icons=true&hide_border=true" />
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu07shreej&show_icons=true&locale=en&layout=compact&hide_border=true" alt="anu07shreej" /> -->
 
+### GitHub Stats
 
-<!-- Independent Study: -->
-
-
-
-
-
-
-
-
-
-
-
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anu07shreej&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu07shreej&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
 
 
 
