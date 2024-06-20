@@ -4,7 +4,7 @@
 
 #### 🌐 Socials:
 [![GitHub anu07shreej](https://img.shields.io/github/followers/anu07shreej?label=follow&style=social)](https://github.com/anu07shreej)
-[![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
+[![Linkedin: anu07shreej](https://img.shields.io/badge/-Anushree-blue?style=flat-square&logo=Linkedin&logoColor=white&logoSize=auto&link=lhttps://www.linkedin.com/in/anu07shreej/)](https://www.linkedin.com/in/anu07shreej/)
 [![Leetcode: anu07shreej](https://img.shields.io/badge/-Leetcode-red?style=flat-square&logo=Leetcode&logoColor=white&link=lhttps://leetcode.com/anu07shreej/)](https://leetcode.com/anu07shreej/) 
 [![Kaggle: anu0703shree](https://img.shields.io/badge/-Kaggle-green?style=flat-square&logo=Kaggle&logoColor=white&link=lhttps://www.kaggle.com/anu0703shree/)](https://www.kaggle.com/anu0703shree/) 
 [![Hugging Face: anu0703shree](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=HuggingFace&logoColor=white&link=lhttps://huggingface.co/anu07shreej/)](https://huggingface.co/anu07shreej) 
