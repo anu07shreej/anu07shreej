@@ -19,10 +19,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
 #### 📊 GitHub Stats :
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=anu07shreej&show_icons=true&hide_border=true" />
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu07shreej&show_icons=true&locale=en&layout=compact&hide_border=true" alt="anu07shreej" /> -->
-
-### GitHub Stats
 
 <table class="center" style="width:100%;">
   <tr>
