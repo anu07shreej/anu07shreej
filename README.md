@@ -1,4 +1,5 @@
-### 👋 Hello, I'm Anushree.
+### 👋 Hello, I'm Anushree. 
+#### I am actively looking for Software Engineering and Machine Learning roles. Please reach out via email.
 
 ![](https://komarev.com/ghpvc/?username=anu07shreej&color=blue&style=plastic&label=PROFILE+VIEWS)
 
