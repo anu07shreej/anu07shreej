@@ -11,6 +11,7 @@ I received my Bachelors degree in Electronics and Communication Engineering from
 [![Hugging Face: anu0703shree](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-square&logo=HuggingFace&logoColor=white&link=lhttps://huggingface.co/anu07shreej/)](https://huggingface.co/anu07shreej) 
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23E4405F.svg?logo=Goodreads&logoColor=white)](https://www.goodreads.com/user/show/12176363-anushree-jumade) 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fanu07shreej)](https://twitter.com/anu07shreej)
+[![Letterboxd](https://img.shields.io/letterboxd/url?style=social&url=https%3A%2F%2Fletterboxd.com%2Fanu07shreej)](https://letterboxd.com/anu07shreej/)
 
 
 #### 💻 Tech Stack
