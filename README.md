@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Anushree. 
-I received my Bachelors degree in Electronics and Communication Engineering from NIT, India and a Masters in Computer Engineering from the University of Texas, Dallas. I have been working as a Software engineer since then. When not glued to my phone screen, I spend time reading books 📚, making art on my Ipad 🎨, solving Jigsaw puzzles 🧩, and playing Table Tennis 🏓. I am a fan of online learning and believe that education happens everywhere, not just in the classroom. 
+I received my Bachelors degree in Electronics and Communication Engineering from NIT, India and a Masters in Computer Engineering from the University of Texas, Dallas. I have been working as a Software engineer since then. When not glued to my phone screen, I spend time reading books 📚, making art on my Ipad 🎨, solving Jigsaw puzzles 🧩, and playing Table Tennis 🏓. 
 #### 
 
 ![](https://komarev.com/ghpvc/?username=anu07shreej&color=blue&style=plastic&label=PROFILE+VIEWS)
