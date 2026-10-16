@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Anushree. 
 I received my Bachelors degree in Electronics and Communication Engineering from NIT, India and a Masters in Computer Engineering from the University of Texas, Dallas. I have been working as a Software engineer since then. When not glued to my phone screen, I spend time reading books 📚, making art on my Ipad 🎨, solving Jigsaw puzzles 🧩, and playing Table Tennis 🏓. 
-#### 
+#### STOP HARASSING MY ROOMMATE. MY OFFICE FOLKS found their way out of your constant interference by kicking me out. THEY WERE DONE WITH YOUR INQUIRIES and REQUESTS. MY roommate is next. SHE's set to kick me out of my house. She's done with UPDATING YOU. The whole picture  paints me in the bad situation AND these folks do not want to have to do anything with me, if things go SOUTH. GET THE F*** OUT OF MY LIFE! YOUR ACTIONS have got me here and ARE ONLY CREATING MORE trouble for me. I am in no position to find a new place and move somewhere with whatever is going on. JUST STOP FUCKING AROUND with these people and LEAVE me ALONE. JUST GET THE FUCK OUT OF MY LIFE!!!
 
 ![](https://komarev.com/ghpvc/?username=anu07shreej&color=blue&style=plastic&label=PROFILE+VIEWS)
 
