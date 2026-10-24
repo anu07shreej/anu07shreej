@@ -1,6 +1,6 @@
 ### 👋 
 I received my Bachelors degree in Electronics and Communication Engineering from NIT, India and a Masters in Computer Engineering from the University of Texas, Dallas. I have been working as a Software engineer since then. When not glued to my phone screen, I spend time reading books 📚, making art on my Ipad 🎨, solving Jigsaw puzzles 🧩, and playing Table Tennis 🏓. 
-#### An unemployed girl still got to pay her bills- Rent, Food, Mobile. VENMO- @anu007shreej (https://venmo.com/u/anu007shreej)
+#### 
 
 ![](https://komarev.com/ghpvc/?username=anu07shreej&color=blue&style=plastic&label=PROFILE+VIEWS)
 
