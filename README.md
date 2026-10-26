@@ -1,7 +1,7 @@
 ### 👋 
 I received my Bachelors degree in Electronics and Communication Engineering from NIT, India and a Masters in Computer Engineering from the University of Texas, Dallas. I have been working as a Software engineer since then. When not glued to my phone screen, I spend time reading books 📚, making art on my Ipad 🎨, solving Jigsaw puzzles 🧩, and playing Table Tennis 🏓. 
 
-#### You took away my livelihood and destroyed my happy life. Have been harassing me for the past two years. Have some shame and accountability. I lost my insurance. I cannot even go to a doctor to seek medication for my depression and other medical problems. I am on a work visa and you put me in this helpless situation. Instead of sending false promises on job, give me back my paycheck. You should have thought twice before acting foolishly the way you did. If I break down and give up this fight out of my circumstances, I hope you rot in hell.  Venmo: @anu007shreej 
+#### 
 
 ![](https://komarev.com/ghpvc/?username=anu07shreej&color=blue&style=plastic&label=PROFILE+VIEWS)
 
